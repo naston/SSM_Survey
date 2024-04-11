@@ -8,3 +8,8 @@ https://github.com/raminmh/liquid-s4
 
 https://github.com/lindermanlab/S5
  - s5
+
+
+https://github.com/JPGoodale/annotated-s5/blob/master/annotatedS5.ipynb
+
+May just be better to import these libraries?
